@@ -8,7 +8,4 @@ find out about rides/races, read race reports, and to provide team members with 
 post/view race reports/blog posts, and have an online presence.</p>
 
 <h2>Documentation</h2>
-<embed src="final.pdf" width="500px" height="800px">
-
-<h2>Storyboard</h2>
-<embed src="CS%20142%20Final%20Project.pdf.ai" width="500px" height="800px">
+<embed src="CS142AdvancedWebDesignCSSandUsabilitySpring2016%20(1)%20(1).pdf"final.pdf"" width="500px" height="800px">
