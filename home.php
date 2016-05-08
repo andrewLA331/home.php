@@ -2,7 +2,7 @@
 
 <h2>About the Site</h2>
 
-<p>A redesign for the the UVM cycling club team website. 
+<p>This project is a redesign for the the UVM cycling club team website. 
 The end goal is to provide a web portal for prospective club members to find out more about the team and contact a representative, 
 find out about rides/races, read race reports, and to provide team members with a way to post/look at rides, 
 post/view race reports/blog posts, and have an online presence.</p>
