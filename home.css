@@ -1,0 +1,33 @@
+body {
+    background-color: black;
+    color: white;
+}
+h1,h2 {
+    text-align: center;
+    padding: 30px;
+    font-family: 'Permanent Marker', cursive;
+}
+
+p {
+    text-align: center;
+}
+
+h2 {
+    border-bottom-style: solid;
+}
+
+embed {
+    padding-left: 20%;
+}
+
+h1,h2,p {
+    opacity: 80%;
+}
+
+video {
+    padding-left: 30%;
+}
+
+iframe {
+    padding-left: 30%;
+}
